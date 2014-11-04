@@ -1,4 +1,5 @@
 # Windows Azure SDK for Node.js
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/pjutard/azure-sdk-for-node?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This project provides a Node.js package that makes it easy to access Windows Azure Services like Table Storage and Service Bus. It also includes a cross platform command line tool for managing Windows Azure Websites and Virtual Machines.
 
